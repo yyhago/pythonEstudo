@@ -63,10 +63,6 @@ cd PythonEstudo/modulo-especifico
 
 3. Siga as instruções de cada módulo nos respectivos READMEs
 
-## 📝 Licença
-
-Este projeto está sob a licença [Escolha sua licença].
-
 ## 🤝 Contribuições
 
 Sugestões e contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
