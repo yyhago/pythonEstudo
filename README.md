@@ -61,7 +61,6 @@ git clone https://github.com/yyhago/PythonEstudo.git
 cd PythonEstudo/modulo-especifico
 ```
 
-3. Siga as instruções de cada módulo nos respectivos READMEs
 
 ## 🤝 Contribuições
 
